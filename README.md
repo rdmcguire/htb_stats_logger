@@ -1,5 +1,7 @@
 # htb_stats_logger
 
+***This is abandoned, and unnecessary. Using netdata with prometheus is a better solution***
+
 Linux TC HTB Class Statistics Collection and Storage. This is a simple python script that will poll HTB classes for a given interface and store statistics in a postgres database.
 Contributions are welcome, I'm not a software engineer by trade so there is sure to be room for improvement.
 
